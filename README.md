@@ -1,4 +1,3 @@
-# Olympics-Data-Analysis-Insights-on-GDP-Gender-and-Medal-Performance
 # Olympics Data Analysis: Insights on GDP, Gender, and Medal Performance
 
 ## Project Overview
